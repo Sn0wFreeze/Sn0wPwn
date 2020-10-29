@@ -1,8 +1,12 @@
 @echo off
 
+REM By Sn0wFreeze 
+
 cls
 
 title Docker0
+
+echo Wellcome to Docker0!
 
 color B
 
